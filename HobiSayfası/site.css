@@ -1,0 +1,68 @@
+.kutu1{background-image: url(https://cdn.seturday.com/content/uploads/makale_resimleri/kapak/kampcilik-101-nedir-ne-degildir-61cb4e58-7a46-4467-a7b5-8c2adf3d07ddbanner.jpg);
+    width: 700px;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    color:white;
+    text-align: center;
+    }
+    h1{
+        text-align: center;
+        color: rgb(204, 64, 169);
+        font-size: 40px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+img{
+    width: 100%;
+}
+html{
+    font-size: 20px;
+}
+article{
+   max-width: 700px;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+div{
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+figure{
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+
+}
+figcaption{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: grey;
+    margin-top: 16px;
+
+}
+button{
+    margin-left: 20px;
+    width: 300px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: aliceblue;
+
+}
+nav{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+a{
+    text-decoration:solid;
+    color: purple;
+    border: 10px;
+}
+
+
+
